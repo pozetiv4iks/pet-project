@@ -1,0 +1,327 @@
+.content{
+  scroll-behavior: smooth;
+}
+
+.body{
+    width: 1280px; 
+    height: 1739px;
+    margin: 0 auto; 
+    padding: 0;
+    position: absolute; 
+    left: 50%; 
+    transform: translateX(-50%); 
+    top: 0; 
+    margin-bottom: 0;
+    background-color: #090616;
+    color: #FFFFFF;
+}
+
+.headerBg{
+  position: absolute;
+  top:0;
+  left:0;
+  padding: 0;
+  margin: 0;
+  height: 180px;
+  z-index: -1;
+  width:100%;
+  background-color: #100E27;
+}
+
+.header{
+  position: absolute;
+  background-color: #100E27;
+  color:#ffffff;
+  height: 180px;
+  width: 1280px;
+}
+
+.logo{
+  position: absolute;
+  top: 55px;
+  left:55px;
+  width: 271px;
+  height:70px;
+}
+
+.image{
+  position: absolute;
+  width: 70px;
+  height: 70px;
+}
+
+.name{
+  position: absolute;
+  width: 182px;
+  height: 52px;
+  top: 9px;
+  left: 89px;
+  gap: 0px;
+  opacity: 0px;  
+  font-family: Jost;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 52.02px;
+  text-align: left;  
+}
+
+.navigation{
+  position: absolute;
+  width: 500px;
+  height: 50px;
+  top: 65px;
+  left: 496px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Jost;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;  
+}
+
+.about{
+  position: absolute;
+  width: 51px;
+  height: 29px;
+  top: 9px;
+  left: 50px;
+  gap: 0px;
+  opacity: 0px;
+  cursor: default;
+  border-bottom: #FFFFFF solid;
+}
+
+.howDoes{
+  position: absolute;
+  width: 159px;
+  height: 29px;
+  top: 9px;
+  left: 185px;
+  gap: 0px;
+  opacity: 0px;  
+  cursor: pointer;
+}
+
+.contacts{
+  position: absolute;
+  width: 72px;
+  height: 29px;
+  top: 11px;
+  left: 411px;
+  gap: 0px;
+  opacity: 0px;  
+  cursor:pointer;
+}
+
+.userImage{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 66px;
+  left: 1175px;
+  gap: 0px;
+  opacity: 0px;
+  cursor: pointer;
+}
+
+.infoBlockBg{
+  position: absolute;
+  width: 100%;
+  height: 642px;
+  left:0px;
+  top: 180px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #090616;
+  z-index: -1;
+}
+
+.infoBlock{
+  position: absolute;
+  width: 1280px;
+  height: 642px;
+  top: 180px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.block1{
+  position: absolute;
+  width: 535px;
+  height: 200px;
+  top: 35px;
+  left: 56px;
+  gap: 0px;
+  opacity: 0px;
+  gap: 0px;
+  border-radius: 25px;
+  opacity: 0px;
+  background-color: #4D2043;
+}
+
+.block2{
+  position: absolute;
+  width: 535px;
+  height: 200px;
+  top: 217px;
+  left: 699px;
+  gap: 0px;
+  opacity: 0px;
+  gap: 0px;
+  border-radius: 25px;
+  opacity: 0px;
+  background-color: #2F2F1D;
+}
+
+.block3{
+  position: absolute;
+  width: 535px;
+  height: 200px;
+  top: 400px;
+  left: 56px;
+  gap: 0px;
+  opacity: 0px;
+  gap: 0px;
+  border-radius: 25px;
+  opacity: 0px;
+  background: #2F0A0C;
+}
+
+.infoText{
+  position: absolute;
+  width: 456px;
+  height: 142px;
+  top: 29px;
+  left: 40px;
+  gap: 0px;
+  opacity: 0px;  
+  font-family: Jost;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28.9px;
+  text-align: left;
+  color:#ffffff;  
+}
+
+.howItWorks{
+  position:absolute;
+  width: 1280px;
+  height: 667px;
+  top: 822px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #D9D9D9;
+  box-shadow: 0px 4px 100px 0px #090816 inset;
+}
+
+.BitPhone{
+  position: absolute;
+  width: 368px;
+  height: 333px;
+  gap: 0px;
+  opacity: 0px;  
+}
+
+.miner{
+  position: absolute;
+  width: 368px;
+  height: 368px;
+  top: 299px;
+  gap: 0px;
+  opacity: 0px;  
+}
+
+.nft{
+  position: absolute;
+  width: 368px;
+  height: 207px;
+  top: 460px;
+  left: 912px;
+  gap: 0px;
+  opacity: 0px;  
+}
+
+.bankPhone{
+  position: absolute;
+  width: 368px;
+  height: 327px;
+  left: 912px;
+  gap: 0px;
+  opacity: 0px;  
+}
+
+.howDoeskBg{
+  position: absolute;
+  width: 100%;
+  height: 667px;
+  top: 822px;
+  left:0;
+  gap: 0px;
+  opacity: 0px;  
+  background-color: #090616;
+  z-index: 0;
+}
+
+.footerBg{
+  position: absolute;
+  width: 100%;
+  height: 250px;
+  top: 1489px;
+  left:0px;
+  gap: 0px;
+  opacity: 0px;  
+  background-color: #090616;
+}
+
+.HowWorkTxt{
+  position: absolute;
+  width: 700px;
+  height: 466px;
+  top: 86px;
+  left: 290px;
+  gap: 0px;
+  opacity: 0px;  
+  background: #100E27;
+  z-index: 2;
+}
+
+.howTxt{
+  position: absolute;
+  width: 600px;
+  height: 400px;
+  top: 33px;
+  left: 50px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Jost;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34.68px;
+  text-align: left;    
+  color: #FFFFFF;
+}
+
+.footer{
+  position: absolute;
+  width: 1280px;
+  height: 250px;
+  top: 1489px;
+  gap: 0px;
+  opacity: 0px;
+  background: #090616;
+}
+
+.footertxt{
+  position: absolute;
+  width: 202px;
+  height: 35px;
+  top: 107px;
+  left: 539px;
+  gap: 0px;
+  opacity: 0px;  
+  font-family: Jost;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34.68px;
+  text-align: left;  
+}

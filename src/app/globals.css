@@ -1,0 +1,18 @@
+div{
+  scroll-behavior: smooth;
+}
+
+body{
+  scroll-behavior: smooth;
+}
+
+a{
+  text-decoration: none;
+  color:#ffffff;
+  transition: 0.5s;
+}
+
+a:hover{
+  transform:scale(0.5) ;
+  color:#d6d4d4
+}

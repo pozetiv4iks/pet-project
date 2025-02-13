@@ -6,6 +6,7 @@ import '@fontsource/jost/700.css';
 import human1 from "./icons/human1.png";
 import human2 from "./icons/human2.png";
 import strai from "./icons/strai.png";
+import dog from "";
 
 export default function Page() {
     return  (
